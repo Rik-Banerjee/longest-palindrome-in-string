@@ -1,4 +1,4 @@
-# longest-palindrome-in-string
-My solution to an interesting coding problem i found online.
+# Problem: Find the largest palindrome in a string
 
-# Problem: Find the largest palindrome inside of a String
+This is an interesting problem I found online. Here is my solution.
+
